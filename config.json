@@ -1,19 +1,19 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "Ivan_Lai",
+		"description": "Author:ivanlai0606,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "Ivan_Lai",
+		"subtitle": "Let life be beautiful like summer flowers and death like autumn leaves.",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
-		"signature": "Code & Input & Output",
+		"name": "Ivan_Lai",
+		"signature": "Let life be beautiful like summer flowers and death like autumn leaves.",
 		"avatar": {
 			"link": "assets/avatar.jpg",
 			"height": "100",
@@ -31,7 +31,7 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:hi@simonaking.com",
+				"href": "ivanlai2007@outlook.com",
 				"icon": "email",
 				"text": "Email"
 			},
