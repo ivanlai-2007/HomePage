@@ -31,14 +31,14 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "ivanlai2007@outlook.com",
+				"href": "mailto:ivanlai2007@outlook.com",
 				"icon": "email",
 				"text": "Email"
-			},
-			"fourth": {
-				"href": "https://github.com/SimonAKing",
-				"icon": "github",
-				"text": "Github"
+			}
+			"third": {
+				"href": "gallery/",
+				"icon": "xiangce",
+				"text": "Gallery"
 			}
 		}
 	}
